@@ -1,0 +1,28 @@
+.container{ 
+  width: 400px ; 
+  background-color: gray ; 
+  display:flex;
+  
+}
+
+.box{
+  height: 100px;
+  width: 100px;
+  border:1px solid yellow;
+  color:#fff;
+  
+  
+}
+
+.box.blue{
+  
+  background-color: #00F;
+  margin-right: 20px;
+  
+}
+
+.box.red{
+ 
+  
+  background-color: #F00;
+}
